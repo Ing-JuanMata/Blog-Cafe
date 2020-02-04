@@ -118,7 +118,8 @@ img {
   height: 60rem;
 }
 
-.site-header a {
+.site-header a,
+.barra a {
   color: white;
   text-decoration: none;
 }
